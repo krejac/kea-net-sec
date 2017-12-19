@@ -1,2 +1,2 @@
 # kea-net-sec
-Eksamensforberedelser til Netværks- og kommunikationssikkerhed på KEA
+Eksamensslides til Netværks- og kommunikationssikkerhed på KEA.
